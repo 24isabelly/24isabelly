@@ -2,7 +2,7 @@
 
 <!--
 **24isabelly/24isabelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+meu nome é isabelly                                     caroline,estou estudando programação na escola,estou desenvolvendo um pong.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
